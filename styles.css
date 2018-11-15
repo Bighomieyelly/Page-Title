@@ -1,0 +1,21 @@
+body {
+    background-image:url("https://us.123rf.com/450wm/dmitr1ch/dmitr1ch1711/dmitr1ch171100040/89489983-black-background-aged-wood-texture-seamless-background-dark-wooden-table.jpg?ver=6"); 
+    }
+    
+h1{
+text-align:center;
+color:white;
+font-family: 'Spicy Rice', cursive;
+text-decoration:underline  solid;
+}
+
+img{
+margin-left:500px;
+border:black dotted 10px ;
+}
+
+p{
+    color:white;
+    font-size:30px;
+    font-family: 'Spicy Rice', cursive;
+}
